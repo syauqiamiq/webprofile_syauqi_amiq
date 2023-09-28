@@ -1,0 +1,29 @@
+/* Basic styling for the card */
+.job-card {
+	width: 300px;
+	background-color: #333;
+	border-radius: 10px;
+	padding: 10px;
+	margin: 20px;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	padding: 20px;
+}
+
+/* Styling for the title */
+.job-title {
+	font-size: 24px;
+	font-family: "DM Sans", sans-serif;
+	font-weight: 500;
+	color: #f9b53a;
+}
+
+/* Styling for the job description list */
+.job-description {
+	letter-spacing: 1px;
+	font-size: 16px;
+	font-family: "DM Sans", sans-serif;
+	font-weight: 400;
+	color: #fafafa;
+	line-height: 28px;
+	text-align: justify;
+}
